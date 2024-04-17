@@ -1,0 +1,17 @@
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\EmploymentManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\EmploymentManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\EmploymentManagement.Repository.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\EmploymentManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\EmploymentManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\net6.0\EmploymentManagement.Repository.deps.json
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\net6.0\EmploymentManagement.Repository.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\net6.0\EmploymentManagement.Repository.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\net6.0\EmploymentManagement.Application.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\net6.0\EmploymentManagement.Model.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\net6.0\EmploymentManagement.Application.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\bin\Debug\net6.0\EmploymentManagement.Model.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\EmploymentManagement.Repository.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\EmploymentManagement.Repository.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\refint\EmploymentManagement.Repository.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\EmploymentManagement.Repository.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Repository\obj\Debug\net6.0\ref\EmploymentManagement.Repository.dll

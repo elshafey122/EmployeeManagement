@@ -1,0 +1,11 @@
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\bin\Debug\net6.0\EmploymentManagement.Model.deps.json
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\bin\Debug\net6.0\EmploymentManagement.Model.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\bin\Debug\net6.0\EmploymentManagement.Model.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\obj\Debug\net6.0\EmploymentManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\obj\Debug\net6.0\EmploymentManagement.Model.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\obj\Debug\net6.0\EmploymentManagement.Model.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\obj\Debug\net6.0\EmploymentManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\obj\Debug\net6.0\EmploymentManagement.Model.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\obj\Debug\net6.0\refint\EmploymentManagement.Model.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\obj\Debug\net6.0\EmploymentManagement.Model.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Model\obj\Debug\net6.0\ref\EmploymentManagement.Model.dll

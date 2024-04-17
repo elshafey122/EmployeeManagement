@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.29" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\EmployeeManagement.Application\EmploymentManagement.Application.csproj" />
+		<ProjectReference Include="..\EmployeeManagement.Model\EmploymentManagement.Model.csproj" />
+		<ProjectReference Include="..\EmployeeManagement.Repository\EmploymentManagement.Repository.csproj" />
+	</ItemGroup>
+
+</Project>

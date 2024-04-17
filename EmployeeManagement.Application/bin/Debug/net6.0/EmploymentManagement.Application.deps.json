@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmploymentManagement.Application/1.0.0": {
+        "dependencies": {
+          "EmploymentManagement.Model": "1.0.0"
+        },
+        "runtime": {
+          "EmploymentManagement.Application.dll": {}
+        }
+      },
+      "EmploymentManagement.Model/1.0.0": {
+        "runtime": {
+          "EmploymentManagement.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmploymentManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmploymentManagement.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

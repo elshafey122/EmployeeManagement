@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\EmploymentManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\EmploymentManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\EmploymentManagement.Application.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\EmploymentManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net6.0\EmploymentManagement.Application.deps.json
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net6.0\EmploymentManagement.Application.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net6.0\EmploymentManagement.Application.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net6.0\EmploymentManagement.Model.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net6.0\EmploymentManagement.Model.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\EmploymentManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\EmploymentManagement.Application.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\EmploymentManagement.Application.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\refint\EmploymentManagement.Application.dll
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\EmploymentManagement.Application.pdb
+C:\Users\Ahmed\Desktop\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net6.0\ref\EmploymentManagement.Application.dll
